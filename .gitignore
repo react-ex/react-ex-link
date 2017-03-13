@@ -1,0 +1,8 @@
+.DS_Store
+npm-debug.log
+
+.idea/
+lib/
+public/
+target/
+node_modules/
